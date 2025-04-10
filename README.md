@@ -61,8 +61,8 @@ A web application that allows users to browse, search, and manage library resour
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimustafa6267&show_icons=true&theme=radical" alt="GitHub Stats" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimustafa6267&layout=compact&theme=radical" alt="Top Languages" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=alimustafa52&show_icons=true&theme=radical" alt="GitHub Stats" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimustafa52&layout=compact&theme=radical" alt="Top Languages" height="180em">
 </div>
 
 ## 📝 Latest Blog Posts
